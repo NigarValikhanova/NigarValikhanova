@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/NigarValikhanova/NigarValikhanova/assets/140783772/c93b43fc-eba5-427c-a688-a30262387c04" width = "60 px">, I am Nigar Valikhanova
+### Hi there <img src="https://github.com/NigarValikhanova/NigarValikhanova/assets/140783772/c93b43fc-eba5-427c-a688-a30262387c04" width = "40px">, I am Nigar Valikhanova
 <
 <!--
 **NigarValikhanova/NigarValikhanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
