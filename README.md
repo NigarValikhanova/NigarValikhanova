@@ -1,8 +1,6 @@
+<img align="center" alt="Banner" src="https://github.com/NigarValikhanova/Back-End/assets/140783772/277fe06e-7a1c-4485-bc74-b81076983c6e"
 
-
-![pngtree-modern-double-colors-neon-lights-on-brick-background-image_324803](https://github.com/NigarValikhanova/Back-End/assets/140783772/b500fd87-5b3c-4494-8b09-d1af765e5273)
-
-### Hi there <img src="https://github.com/NigarValikhanova/NigarValikhanova/assets/140783772/e405a9fc-2560-4dc8-95fb-9604ab45c136" width = "30px">, I am Nigar Valikhanova!
+<h1 align="center">Hi there <img src="https://github.com/NigarValikhanova/NigarValikhanova/assets/140783772/e405a9fc-2560-4dc8-95fb-9604ab45c136" width = "30px">, I am Nigar</h1>
 
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/NigarValikhanova/Back-End/assets/140783772/c0a570d7-d3d6-46cd-8427-f0021c4174e6"
