@@ -1,5 +1,5 @@
-### Hi there <img src="https://github.com/NigarValikhanova/NigarValikhanova/assets/140783772/e405a9fc-2560-4dc8-95fb-9604ab45c136" width = "30px">, I am Nigar Valikhanova
-<
+### Hi there <img src="https://github.com/NigarValikhanova/NigarValikhanova/assets/140783772/e405a9fc-2560-4dc8-95fb-9604ab45c136" width = "30px">, I am Nigar Valikhanova!
+
 <!--
 **NigarValikhanova/NigarValikhanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
