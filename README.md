@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@nigar-valikhanova-khanlar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@nigar-valikhanova-khanlar" height="30" width="40" /></a>
+<a href="https://codepen.io/nigar-valikhanova-khanlar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@nigar-valikhanova-khanlar" height="30" width="40" /></a>
 <a href="https://twitter.com/nigarv589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nigarv589" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/nigar-valikhanova-1305611a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nigar-valikhanova-1305611a0" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100070883556156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100070883556156" height="30" width="40" /></a>
