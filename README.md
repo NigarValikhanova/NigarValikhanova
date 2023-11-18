@@ -1,4 +1,4 @@
-<img align="center" alt="Banner" src="https://github.com/NigarValikhanova/NigarValikhanova/assets/140783772/a6b31ca2-40ae-4ef9-8f34-4ffa9f89d860">
+<img align="center" alt="Banner" src="https://github.com/NigarValikhanova/NigarValikhanova/assets/140783772/2b03afcc-3c13-490e-826b-709168c2931a">
 
 <h1 align="center">Hi there <img src="https://github.com/NigarValikhanova/NigarValikhanova/assets/140783772/e405a9fc-2560-4dc8-95fb-9604ab45c136" width = "30px">, I am Nigar</h1>
 
