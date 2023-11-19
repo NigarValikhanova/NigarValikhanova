@@ -33,11 +33,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nigarvalikhanova&" alt="nigarvalikhanova" /></p>
 
-  <h1 align="left" > Spotify Playing : 🎧 </h1>
-  
-  <img align="right" alt="GIF" height="250px" width="250px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-  
-
 <!--
 **NigarValikhanova/NigarValikhanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
