@@ -5,6 +5,8 @@
   }
 </style>
 
+
+
 <img align="center" alt="Banner" src="https://github.com/NigarValikhanova/NigarValikhanova/assets/140783772/68e29fe2-e7b0-45f3-8a33-e0c8f26959a7" />
 
 <h1 align="center">Hi there <img src="https://github.com/NigarValikhanova/NigarValikhanova/assets/140783772/e405a9fc-2560-4dc8-95fb-9604ab45c136" width = "30px">, I am Nigar </h1>
