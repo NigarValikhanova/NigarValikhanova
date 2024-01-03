@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi there <img src="https://github.com/NigarValikhanova/NigarValikhanova/assets/140783772/e405a9fc-2560-4dc8-95fb-9604ab45c136" width = "50px">, I am Nigar </h1>
 
-<h3 align="center"> A passionate fullstack developer from Azerbaijan </h3>
+<h3 align="center"> A passionate backend developer from Azerbaijan </h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/NigarValikhanova/Back-End/assets/140783772/7638a832-6d46-4ab3-abb9-d4c4d5ff9f89" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nigarvalikhanova&label=Profile%20views&color=0e75b6&style=flat" alt="nigarvalikhanova" /> </p>
