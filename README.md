@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C#, Python, .Net Framework, JS, HTML, CSS, React**
 
-- 📫 How to reach me **iamnigarvalikhanova@gmail.com**
+- 📫 How to reach me **imnigarvalikhanova@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
