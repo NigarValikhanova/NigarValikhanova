@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/nigarv589" target="blank"><img src="https://img.shields.io/twitter/follow/nigarv589?logo=twitter&style=for-the-badge" alt="nigarv589" /></a> </p>
 
-- 🌱 I’m currently learning **C#, Python, .Net Framework, JS, HTML, CSS, React**
+- 🌱 I’m currently learning **C#, C, Python, .Net Framework, JS, HTML, CSS, React, Scratch**
 
 - 📫 How to reach me **iamnigarvalikhanova@gmail.com**
 
